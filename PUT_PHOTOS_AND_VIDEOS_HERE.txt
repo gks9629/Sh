@@ -1,0 +1,1 @@
+Place her photos and videos in this folder. Then add each filename to the project-root memories.json file. See README.md for examples.
